@@ -1,0 +1,47 @@
+
+    body{
+        background-color:lightgoldenrodyellow;
+        font-size:20px;
+    }
+    img{
+        width:200px;
+        border-radius:100px;
+        border:5px dashed black
+        }
+    h2{
+        
+        background-color:cyan;
+        box-shadow:5px 5px 5px 5px black;
+        width:700px;
+       
+    }
+    p{
+        background-color:darkgrey;
+        box-shadow:5px 5px 5px 5px black;
+        width:1250px;
+        
+    }
+    h4{
+
+        color:brown;
+    }
+    u{
+        color:brown;
+    }
+
+    
+    #wrap{
+        width:800px;
+        margin:0 auto;
+    }
+    #left_col{
+        float:left;
+        width:400px;
+    }
+    #right_col{
+        float:right;
+        width:400px;
+    }
+    a{
+        text-decoration:none;
+    }
